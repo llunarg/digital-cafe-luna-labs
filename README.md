@@ -92,17 +92,6 @@ These labs are intended for learning and practice. Always review the AWS resourc
 
 ---
 
-## Related articles
-
-The articles and explanations behind this project are published on Dev.to:
-
-- [Certificarse en AWS no debería quedarse solo en responder preguntas: nace Digital Café Luna](https://dev.to/llunarg/certificarse-en-aws-no-deberia-quedarse-solo-en-responder-preguntas-nace-digital-cafe-luna-4pfo)
-- [SOA-Lab1: Observabilidad mínima — CloudWatch Logs, Alarmas y SNS](https://dev.to/llunarg/soa-lab1-observabilidad-minima-cloudwatch-logs-alarmas-sns-2l81)
-- [SCS-Lab1: CloudTrail Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
-- [More articles by Luis Eduardo Lunar](https://dev.to/llunarg)
-
----
-
 ## Author
 
 Created by **Luis Eduardo Lunar**.
