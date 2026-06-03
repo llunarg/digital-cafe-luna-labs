@@ -68,6 +68,7 @@ The technical articles and labs behind Digital Café Luna are published first on
 | 2026-05-11 | Certificarse en AWS no debería quedarse solo en responder preguntas: nace Digital Café Luna | Project introduction / AWS hands-on learning approach | [Read on Dev.to](https://dev.to/llunarg/certificarse-en-aws-no-deberia-quedarse-solo-en-responder-preguntas-nace-digital-cafe-luna-4pfo) |
 | 2026-05-18 | SOA-Lab1: Observabilidad mínima — CloudWatch Logs, Alarmas y SNS | CloudOps / Observability / Monitoring | [Read on Dev.to](https://dev.to/llunarg/soa-lab1-observabilidad-minima-cloudwatch-logs-alarmas-sns-2l81) |
 | 2026-05-25 | SCS-Lab1: CloudTrail Trail + S3 + KMS + Log Validation | AWS Security / Auditability / Log integrity | [Read on Dev.to](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2) |
+| 2026-06-01 | SAA-Lab1 — Scaling en AWS (baseline): ALB + Auto Scaling + CloudFront | AWS SAA / Design secure / Architectures | [Read on Dev.to](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3) |
 
 > This catalog will be updated as published articles and labs are migrated or referenced from this repository.
 
